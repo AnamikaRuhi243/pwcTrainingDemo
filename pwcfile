@@ -1,4 +1,4 @@
 x=100
 y=200
-print x+y
-print9("we are learning gitHub & we are happy")
+print (x+y)
+print("we are learning gitHub & we are happy")
